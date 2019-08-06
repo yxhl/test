@@ -1,0 +1,25 @@
+ 1086  history 25 > mylog.log
+ 1087  cat mylog.log 
+ 1088  git add mylog.log 
+ 1089  git commit -m 'push log'
+ 1090  git push origin limingen 
+ 1091  git state
+ 1092  git stat
+ 1093  git status
+ 1094  cat mylog.log 
+ 1095  ls
+ 1096  rm mylog.txt 
+ 1097  git add mylog.log 
+ 1098  git commit -m 'push log'
+ 1099  git push origin limingen
+ 1100  git log
+ 1101  git push origin 
+ 1102  ls
+ 1103  git push limingen
+ 1104  git push origin limingen
+ 1105  ls
+ 1106  git branch limingen
+ 1107  git checkout limingen
+ 1108  ls
+ 1109  touch 3543
+ 1110  history 25 > mylog.log
