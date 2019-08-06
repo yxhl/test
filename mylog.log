@@ -1,0 +1,25 @@
+ 1062  ls
+ 1063  mkdir github
+ 1064  ls
+ 1065  cd github
+ 1066  git clone https://github.com/yxhl/test.git
+ 1067  ls
+ 1068  cd test/
+ 1069  ls
+ 1070  git branch limingen
+ 1071  touch limingen
+ 1072  rm limingen
+ 1073  touch 6821
+ 1074  git add .
+ 1075  git commit -m 'create branch'
+ 1076  git config --global user.email "mingen_li@outlook.com"
+ 1077  git config --global user.name "limingen"
+ 1078  git commit -m 'create branch'
+ 1079  git push origin limingen 
+ 1080  history > mylog.txt
+ 1081  cat mylog.txt 
+ 1082  history -d 25 >mylog.log
+ 1083  cat mylog.
+ 1084  cat mylog.log 
+ 1085  history -d 25 > mylog.log
+ 1086  history 25 > mylog.log
